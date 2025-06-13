@@ -35,7 +35,7 @@ If YouTube blocks your VPS IP, follow these steps to bypass restrictions:
 ---
 
 ## 🚀 Deploy on Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/https://github.com/Crush2161/Angel-Music)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=/https://github.com/Crush2161/Angel-Music)
 
 ---
 
